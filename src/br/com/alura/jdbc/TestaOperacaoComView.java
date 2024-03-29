@@ -11,3 +11,6 @@ public class TestaOperacaoComView {
 		produtoCategoriaFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 	}
 }
+
+//Ao rodar este arquivo, você visualizará a tabela com todos os produtos cadastrados
+//podendo fazer todas as operações CRUD
